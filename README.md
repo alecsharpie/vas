@@ -3,7 +3,7 @@
 
 ![VAS Results](VAS_results.png)
 
-##Getting Started
+## Getting Started
 
 To run this script, you will need Python installed on your system.
 
@@ -16,7 +16,7 @@ Running the Script
 python main.py
 ```
 
-###How It Works
+### How It Works
 
 - Fetches historical price data for VAS using the yfinance library.
 - Converts dates into a numeric format suitable for linear regression.
